@@ -1,6 +1,6 @@
 # LOGIRUSH-SERVER
 ERP for all your warehouse needs!
-
+More news coming soon.
 
 ## 👨‍⚖️ License
 [LOGIRUSH-SERVER](https://github.com/EEHoveckis/LOGIRUSH-SERVER) © 2025 by [EEHoveckis](https://github.com/EEHoveckis) is licensed under  [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).\
